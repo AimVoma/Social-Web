@@ -27,3 +27,6 @@ npm install package.json
 
 <b> Python </b><br>
 Anaconda, NLTK collection
+
+# Run Application
+node start_server.js
