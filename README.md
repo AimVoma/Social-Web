@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Social-Web Project</b><br>
+  <b>Social-Web Project 2017 All Rights Reserved</b><br>
   
 Provided the search key, the application performs a SPARQL query on the DBpedia searching for synsets of the related string.
 At the same time a socket communication is established between the Front Interface and the Server, triggering the Twitter's Public Stream API to receive the incoming tweets.
@@ -21,9 +21,14 @@ The Graph indicates signs of tweet's popularity calculating the mean value of tw
 
 
 # DEPENDENCIES
-# JavaScript
+
+<p align="center">
+
+<b> JavaScript </b>
 npm install package.json
 
-# Python
+<b>Python<b>
 Anaconda
+<br>
 NLTK
+</p>
