@@ -1,10 +1,8 @@
 # Social-Web Project #Twitter #DBpedia #Google Maps
 
-Provided the search key, the application query the DBpedia searching for synsets of the string.After post processing and normalizing the returned synsets touples
-
-The application uses the Twitter's Public Stream API to fetch stream's tweets at run time.
-
+Provided the search key, the application performs a SPARQL query on the DBpedia searching for synsets of the related string.
+At the same time a socket communication is established between the front interface and the server, triggering the Twitter's Public Stream API to receive the incoming tweets.
 
 
-![alt tag](http://imgur.com/a/c47G1.png)
+![alt tag](http://imgur.com/OF5ve5T)
 
