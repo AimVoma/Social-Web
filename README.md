@@ -1,5 +1,23 @@
 <p align="center">
   <b>Social-Web Project 2017 All Rights Reserved</b><br>
+</p>
+
+<p align="center">
+  <b>Harry Obaseki</b><br>
+   <b> Ana-Liza Tjon-a-Pauw</b><br>
+    <b>Tibor Vermeij</b><br>
+     <b>Aimilios Voma</b><br>
+      <b>Ediz Yildirim</b><br>
+</p>
+
+
+    
+   
+    
+    
+    
+
+
 
 Provided the search key, the application performs a SPARQL query on the DBpedia searching for synsets of the related string.
 At the same time a socket communication is established between the Front Interface and the Server, triggering the Twitter's Public Stream API to receive the incoming tweets.
@@ -24,7 +42,7 @@ The Graph indicates signs of tweet's popularity calculating the mean value of tw
 ![alt tag](http://i.imgur.com/IWZSAjv.jpg)
 <br>
 <br>
-</p>
+
 
 
 
