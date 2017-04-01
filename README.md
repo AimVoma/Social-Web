@@ -4,5 +4,5 @@ Provided the search key, the application performs a SPARQL query on the DBpedia 
 At the same time a socket communication is established between the front interface and the server, triggering the Twitter's Public Stream API to receive the incoming tweets.
 
 
-![alt tag](http://imgur.com/OF5ve5T)
+![alt tag](http://i.imgur.com/v1RCkQy.jpg)
 
