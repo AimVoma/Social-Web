@@ -1,0 +1,23 @@
+@media screen and (max-width: 400px) {
+	.hidden-tiny {
+		display: none;
+	}
+}
+.container {
+	width: 100%;
+	height: 100%;
+}
+
+#map_canvas{
+  height:50%;
+}
+#tweets{
+  position: absolute;
+  top: 60px;
+  left: 75px;
+  z-index:1000;
+  font-size: 30px;
+}
+.iframe{
+  padding-top:0px;
+}
