@@ -9,10 +9,10 @@ var twitter = require('twitter'),
 
 // SETUP TWITTER TLS HANDSHAKE SECRET KEY
 var twit = new twitter({
-  consumer_key: 'H6xHY8HWo2I4NlAQxXucwuUfN',
-  consumer_secret: 'K5ds68B5RDzMKwtD2fHGFhTHVE9EMteKP4ohrNJtNTzZ4QKa81',
-  access_token_key: '829091782650630144-5HmEa9H9pvhyFOKYAdHNImhgtF1gvQr',
-  access_token_secret: 'n2oRDawZ2XyirQOzU7fKV46FIinvWDsAT65ysq8Fr7gMK'
+  consumer_key: 'CONSUMER_KEY',
+  consumer_secret: 'CONSUMER_SECRET',
+  access_token_key: 'ACCESS_TOKEN_KEY',
+  access_token_secret: 'ACCESS_TOKEN_SECRET'
 }),
 stream = null;
 dbdata= new String();
