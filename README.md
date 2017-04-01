@@ -29,7 +29,7 @@ At the same time a socket communication is established between the Front Interfa
 <br>
 <br>
 <p align="center">
-![alt tag](http://i.imgur.com/v1RCkQy.jpg)
+![alt](http://i.imgur.com/v1RCkQy.jpg)
 </p>
 <br>
 <br>
@@ -39,7 +39,7 @@ Furthermore the DBpedia results(touples) are post-processed and refined, in orde
 <br>
 <br>
 <p align="center">
-![alt tag](http://i.imgur.com/8Pa9IyF.jpg)
+![alt](http://i.imgur.com/8Pa9IyF.jpg)
 </p>
 <br>
 <br>
@@ -48,7 +48,7 @@ The Graph indicates signs of tweet's popularity calculating the mean value of tw
 <br>
 <br>
 <p align="center">
-![alt tag](http://i.imgur.com/IWZSAjv.jpg)
+![alt](http://i.imgur.com/IWZSAjv.jpg)
 </p>
 <br>
 <br>
