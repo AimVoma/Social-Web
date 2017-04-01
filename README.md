@@ -28,8 +28,9 @@ At the same time a socket communication is established between the Front Interfa
 <br>
 <br>
 <br>
+<p align ="center">
 <img src="http://i.imgur.com/v1RCkQy.jpg">
-
+</p>
 
 <br>
 <br>
@@ -38,8 +39,10 @@ Furthermore the DBpedia results(touples) are post-processed and refined, in orde
 <br>
 <br>
 <br>
+<p align ="center">
+<img src="http://i.imgur.com/8Pa9IyF.jpg">
+</p>
 
-![alt](http://i.imgur.com/8Pa9IyF.jpg)
 
 <br>
 <br>
@@ -47,8 +50,10 @@ Furthermore the DBpedia results(touples) are post-processed and refined, in orde
 The Graph indicates signs of tweet's popularity calculating the mean value of tweet's occurances when sampling time period is finished.
 <br>
 <br>
+<p align ="center">
+<img src="http://i.imgur.com/IWZSAjv.jpg">
+</p>
 
-![alt](http://i.imgur.com/IWZSAjv.jpg)
 
 <br>
 <br>
