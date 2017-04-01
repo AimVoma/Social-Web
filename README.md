@@ -24,7 +24,7 @@ At the same time a socket communication is established between the Front Interfa
 <br>
 <br>
 <p align ="center">
-<img src="http://i.imgur.com/v1RCkQy.jpg">
+<img src="http://i.imgur.com/IWZSAjv.jpg">
 </p>
 <br>
 <br>
