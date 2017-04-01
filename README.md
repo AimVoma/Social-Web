@@ -6,5 +6,5 @@ The application uses the Twitter's Public Stream API to fetch stream's tweets at
 
 
 
-![img](http://imgur.com/a/c47G1)
+![alt tag](http://imgur.com/a/c47G1.png)
 
