@@ -9,6 +9,7 @@ At the same time a socket communication is established between the Front Interfa
 <br>
 Furthermore the DBpedia results(touples) are post-processed and refined, in order to be matched as possible with the tweeter's data layout(short string patterns). Once the touples are refined and the Public Stream is feeding us run time tweets, we permorm a matching operation between the tweets and the synsets touples. On full match between one of the synsets touples and the tweet we visualize the tweet(passing the geolocation from server to Front Interface Heat Map via web sockets), in other case the tweet is simply discarded. Lastly we perform a basic metric graph that sampling the overall tweets throughput in time-frame of 60 seconds, by analyzing the matched tweet timestamps. 
 <br>
+<br>
 ![alt tag](http://i.imgur.com/8Pa9IyF.jpg)
 <br>
 <br>
