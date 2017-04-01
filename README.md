@@ -25,8 +25,5 @@ The Graph indicates signs of tweet's popularity calculating the mean value of tw
 <b> JavaScript </b><br>
 npm install package.json
 
-<b> Python <b><br>
-Anaconda
-<br>
-NLTK
-
+<b> Python </b><br>
+Anaconda, NLTK collection
