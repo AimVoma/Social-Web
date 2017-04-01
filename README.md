@@ -44,6 +44,7 @@ The Graph indicates signs of tweet's popularity calculating the mean value of tw
 </p>
 <br>
 <br>
+
 # Dependencies
 
 <b> JavaScript </b><br>
