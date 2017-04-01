@@ -20,12 +20,12 @@ The Graph indicates signs of tweet's popularity calculating the mean value of tw
 
 
 
-# DEPENDENCIES
+# Dependencies
 
 <b> JavaScript </b><br>
 npm install package.json
 
-<b>Python<b><br>
+<b> Python <b><br>
 Anaconda
 <br>
 NLTK
