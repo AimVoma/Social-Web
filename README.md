@@ -28,8 +28,8 @@ At the same time a socket communication is established between the Front Interfa
 <br>
 <br>
 <br>
+<img src="http://i.imgur.com/v1RCkQy.jpg">
 
-![alt](http://i.imgur.com/v1RCkQy.jpg)
 
 <br>
 <br>
