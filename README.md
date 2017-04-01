@@ -10,18 +10,18 @@
     Aimilios Voma<br>
     Ediz Yildirim<br>
 </p>
-
+<br>
+<br>
 
     
    
     
     
     
-<p align="center">
+<h3 align="center">
 <b> Application Description</b>
 <br>
-<br>
-</p>
+</h3>
 
 Provided the search key, the application performs a SPARQL query on the DBpedia searching for synsets of the related string.
 At the same time a socket communication is established between the Front Interface and the Server, triggering the Twitter's Public Stream API to receive the incoming tweets.
