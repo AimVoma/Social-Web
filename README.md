@@ -1,9 +1,9 @@
-<p align="center">
-  <b>Social-Web Project 2017 All Rights Reserved</b><br>
-</p>
+<h align="center">
+  <b>Social-Web Project 2017 All Rights Reserved</b><br><br>
+</h>
 
 <p align="center">
-<b> TEAM 17 </b><br><br>
+<b> TEAM 17 </b><br>
     Harry Obaseki<br>
     Ana-Liza Tjon-a-Pauw<br>
     Tibor Vermeij<br>
