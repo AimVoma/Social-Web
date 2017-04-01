@@ -3,11 +3,12 @@
 </p>
 
 <p align="center">
-  <b>Harry Obaseki</b><br>
-   <b> Ana-Liza Tjon-a-Pauw</b><br>
-    <b>Tibor Vermeij</b><br>
-     <b>Aimilios Voma</b><br>
-      <b>Ediz Yildirim</b><br>
+<b> TEAM 17 </b><br><br>
+    Harry Obaseki<br>
+    Ana-Liza Tjon-a-Pauw<br>
+    Tibor Vermeij<br>
+    Aimilios Voma<br>
+    Ediz Yildirim<br>
 </p>
 
 
