@@ -2,17 +2,6 @@
   <b>Social-Web Project 2017 All Rights Reserved</b><br><br>
 </h1>
 
-<p align="center">
-<b> TEAM 17 </b><br>
-    Harry Obaseki<br>
-    Ana-Liza Tjon-a-Pauw<br>
-    Tibor Vermeij<br>
-    Aimilios Voma<br>
-    Ediz Yildirim<br>
-</p>
-<br>
-<br>
-
 <h3 align="center">
 <b> Application Description</b>
 <br>
