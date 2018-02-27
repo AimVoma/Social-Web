@@ -1,7 +1,7 @@
-/*
+'''
     The github codebase chunk was slightly changed for personal use. All credits go to 'github/rexsavior', creator
     of the mode.
-*/
+'''
 
 import sys
 from SPARQLWrapper import SPARQLWrapper, JSON, XML, N3, RDF
