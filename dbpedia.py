@@ -1,3 +1,8 @@
+/*
+    The github codebase chunk was slightly changed for personal use. All credits go to 'github/rexsavior', creator
+    of the mode.
+*/
+
 import sys
 from SPARQLWrapper import SPARQLWrapper, JSON, XML, N3, RDF
 import nltk
@@ -17,8 +22,6 @@ def dbpedia(term):
     nterm = term.capitalize().replace(' ','_')
     rterms = []
     rterms.append(term)
-
-
     query = """
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
     SELECT ?label
@@ -47,16 +50,14 @@ def dbpedia(term):
      FILTER (lang(?label) = 'en')
     }
     """
-
+    // QUERY SANITAION
     nquery = query.replace('VALUE',nterm)
-
-
     special_chars = set('/$.,()\{\}')
     regex = re.compile(r"", re.IGNORECASE)
-
+    
+    // SPARQL WRAPPER
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
     sparql.setQuery(nquery)
-
 
     sparql.setReturnFormat(JSON)
     try:
