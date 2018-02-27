@@ -3,7 +3,6 @@ trigger=false;
 
 //Utilizing Canva.js Library to render Run-Time Tweets on Chart Graph
 function ShowGraph () {
-
       var chart = new CanvasJS.Chart(document.getElementById("chartContainer"),{
         animationEnabled: false,
         backgroundColor: '#131E23', 
@@ -41,13 +40,10 @@ function ShowGraph () {
       chart.render();
 }
 
-
-
-//Heat Map Initialization
+//Initializing Google Maps[Heat Map] Layer
 function initialize(submit_field, adv_search) 
 {
   var dark_style_theme = 
-
 [
   {
     "elementType": "geometry",
@@ -310,7 +306,7 @@ function initialize(submit_field, adv_search)
     }
   });
   
-  //Setup heat map and link to Twitter array we will append data to
+  //Setup heat map and link to Twitter array[MVC] in which we will append data
   var heatmap;
   var liveTweets = new google.maps.MVCArray();
   heatmap = new google.maps.visualization.HeatmapLayer({
@@ -333,20 +329,15 @@ function initialize(submit_field, adv_search)
           'rgba(191, 0, 31, 1)',
           'rgba(255, 0, 0, 1)'
         ]
-  heatmap.set('gradient', heatmap.get('gradient') ? null : gradient);
-
-
-
-
+heatmap.set('gradient', heatmap.get('gradient') ? null : gradient);
 heatmap.setMap(Gmap);
-
 
   if(io !== undefined) 
   {
       // Web Sockets Initialiation
       var socket = io.connect('/');
 
-      //Add Listener to Twitter-Stream channel for incoming tweets
+      //Add Listener callback to Twitter-Stream channel for incoming tweets
       socket.on('twitter-stream', function (data) {
 
       //Add tweet to the heat map array.
@@ -426,10 +417,6 @@ heatmap.setMap(Gmap);
       {
         setTimeout(function() {ShowGraph()}, 450);
       }
-      
-      
-        
-
     });
 
     // Listens for a success response from the server
