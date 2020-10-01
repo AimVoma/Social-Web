@@ -44,3 +44,6 @@ Anaconda, NLTK collection
 
 # Run Application
 node start_server.js
+
+# Run Time Preview
+https://www.youtube.com/watch?v=uH5Ifyz0mSE
