@@ -40,7 +40,7 @@ The Graph indicates signs of tweet's popularity calculating the mean value of tw
 npm install package.json
 
 <b> Python </b><br>
-Anaconda, NLTK collection
+NLTK, SPARQLWrapper (PYPI)
 
 # Run Application
 node start_server.js
