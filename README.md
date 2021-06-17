@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Social-Web Project 2017 All Rights Reserved</b><br><br>
+  <b>Social-Web Project 2017 Vrije Universiteit</b><br><br>
 </h1>
 
 <h3 align="center">
